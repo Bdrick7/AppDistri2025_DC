@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hBHhtgsPmYMsmEr3lfcDFKuZAI5E+l8CDI7jpQjF6fE=",
+  "Source": "WebApiPerson_DC",
+  "BasePath": "_content/WebApiPerson_DC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

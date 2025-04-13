@@ -1,0 +1,6 @@
+@app.projectCastroDubraska.api_HostAddress = http://localhost:5106
+
+GET {{app.projectCastroDubraska.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

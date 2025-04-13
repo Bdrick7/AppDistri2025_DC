@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "L9XT4QkJMJ+ysgdltc/NYISQ61YovbqIew7xaZK6COM=",
+  "Source": "app.projectCastroDubraska.api",
+  "BasePath": "_content/app.projectCastroDubraska.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

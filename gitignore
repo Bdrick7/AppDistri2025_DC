@@ -1,0 +1,82 @@
+
+## Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+## Mono Auto Generated Files
+mono_crash.*
+
+## DotCover
+.idea/
+*.dotCover
+
+## Rider
+.idea/
+
+## ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Publish
+*.publish.xml
+*.pubxml
+*.pfx
+*.key
+
+## Azure Pipelines
+.azure-pipelines/
+
+## Local config files
+appsettings.Development.json
+secrets.json
+
+## Backup & hidden files
+*.bak
+*.tmp
+*.temp
+*.~*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
