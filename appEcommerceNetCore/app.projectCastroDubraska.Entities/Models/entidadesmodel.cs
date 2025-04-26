@@ -66,7 +66,7 @@ namespace app.projectCastroDubraska.Entities.Models
     {
         public int ClienteId { get; set; }
 
-        public Cliente Cliente { get; set; }
+        public Cliente? Cliente { get; set; }
 
         public DateTime FechaVenta { get; set; }
 
@@ -81,13 +81,13 @@ namespace app.projectCastroDubraska.Entities.Models
     {
         public string? VentaId { get; set; }
 
-        public Venta Venta { get; set; }
+        //public Venta? Venta { get; set; }
 
         public int NumeroItem { get; set; }
 
         public int ProductoId { get; set; }
 
-        public Producto Producto { get; set; }
+        //public Producto? Producto { get; set; }
 
         public decimal PrecioUnitario { get; set; }
 

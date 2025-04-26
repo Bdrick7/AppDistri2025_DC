@@ -1,10 +1,6 @@
-D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\app.projectCastroDubraska.api.csproj.AssemblyReference.cache
-D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\app.projectCastroDubraska.api.GeneratedMSBuildEditorConfig.editorconfig
-D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\app.projectCastroDubraska.api.AssemblyInfoInputs.cache
-D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\app.projectCastroDubraska.api.AssemblyInfo.cs
-D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\app.projectCastroDubraska.api.csproj.CoreCompileInputs.cache
-D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\app.projectCastroDubraska.api.MvcApplicationPartsAssemblyInfo.cache
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\bin\Debug\net8.0\appsettings.Development.json
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\bin\Debug\net8.0\appsettings.docker.Development.json
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\bin\Debug\net8.0\appsettings.docker.json
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\bin\Debug\net8.0\appsettings.json
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\bin\Debug\net8.0\app.projectCastroDubraska.api.staticwebassets.endpoints.json
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\bin\Debug\net8.0\app.projectCastroDubraska.api.exe
@@ -162,6 +158,14 @@ D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.ap
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\bin\Debug\net8.0\app.projectCastroDubraska.Services.pdb
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\bin\Debug\net8.0\app.projectCastroDubraska.common.pdb
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\bin\Debug\net8.0\app.projectCastroDubraska.Entities.pdb
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\app.projectCastroDubraska.api.csproj.AssemblyReference.cache
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\app.projectCastroDubraska.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\app.projectCastroDubraska.api.AssemblyInfoInputs.cache
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\app.projectCastroDubraska.api.AssemblyInfo.cs
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\app.projectCastroDubraska.api.csproj.CoreCompileInputs.cache
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\app.projectCastroDubraska.api.MvcApplicationPartsAssemblyInfo.cs
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\app.projectCastroDubraska.api.MvcApplicationPartsAssemblyInfo.cache
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\app.projectCastroDubraska.api.sourcelink.json
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\scopedcss\bundle\app.projectCastroDubraska.api.styles.css
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\staticwebassets.build.json
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.api\obj\Debug\net8.0\staticwebassets.development.json

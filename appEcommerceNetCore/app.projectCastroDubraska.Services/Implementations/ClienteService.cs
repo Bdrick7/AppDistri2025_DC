@@ -8,6 +8,7 @@ using app.projectCastroDubraska.common.Dto;
 using app.projectCastroDubraska.common.Request;
 using app.projectCastroDubraska.DataAccess.Repositorio;
 using app.projectCastroDubraska.Entities.Models;
+using app.projectCastroDubraska.Services.EventMQ;
 using app.projectCastroDubraska.Services.Interfaces;
 
 namespace app.projectCastroDubraska.Services.Implementations
@@ -15,10 +16,12 @@ namespace app.projectCastroDubraska.Services.Implementations
     public class ClienteService : iClienteService
     {
         private readonly iClienteRepositorio _repository;
+        private readonly iRabbitMQService _rabbitMQService;
 
-        public ClienteService(iClienteRepositorio repository)
+        public ClienteService(iClienteRepositorio repository, iRabbitMQService rabbitMQService)
         {
             _repository = repository;
+            _rabbitMQService = rabbitMQService;
         }
 
         public async Task<BaseResponse<ClienteDto>> ActualizarCliente(int id, ClienteRequest request)
@@ -84,6 +87,7 @@ namespace app.projectCastroDubraska.Services.Implementations
                 };
 
                 response.Success = true;
+                await _rabbitMQService.PublishMessage(response.Result, "clientesQueue");
             }
             catch (Exception ex)
             {

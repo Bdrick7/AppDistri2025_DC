@@ -31,10 +31,10 @@ public class VentaDetalleService : IVentaDetalleService
             VentaDetalle detalle = new();
             detalle.Id = id;
             detalle.VentaId = request.VentaId;
-            detalle.Venta = request.Venta;
+            //detalle.Venta = request.Venta;
             detalle.NumeroItem = request.NumeroItem;
             detalle.ProductoId = request.ProductoId;
-            detalle.Producto = request.Producto;
+            //detalle.Producto = request.Producto;
             detalle.PrecioUnitario = request.PrecioUnitario;
             detalle.Cantidad = request.Cantidad;
             detalle.Total = request.Total;
@@ -47,10 +47,10 @@ public class VentaDetalleService : IVentaDetalleService
             {
                 Id = detalle.Id,
                 VentaId = detalle.VentaId,
-                Venta = detalle.Venta,
+                //Venta = detalle.Venta,
                 NumeroItem = detalle.NumeroItem,
                 ProductoId = detalle.ProductoId,
-                Producto = detalle.Producto,
+                //Producto = detalle.Producto,
                 PrecioUnitario = detalle.PrecioUnitario,
                 Cantidad = detalle.Cantidad,
                 Total = detalle.Total,
@@ -73,10 +73,10 @@ public class VentaDetalleService : IVentaDetalleService
             VentaDetalle detalleEntity = new();
 
             detalleEntity.VentaId = request.VentaId;
-            detalleEntity.Venta = request.Venta;
+            //detalleEntity.Venta = request.Venta;
             detalleEntity.NumeroItem = request.NumeroItem;
             detalleEntity.ProductoId = request.ProductoId;
-            detalleEntity.Producto = request.Producto;
+            //detalleEntity.Producto = request.Producto;
             detalleEntity.PrecioUnitario = request.PrecioUnitario;
             detalleEntity.Cantidad = request.Cantidad;
             detalleEntity.Total = request.Total;
@@ -89,17 +89,17 @@ public class VentaDetalleService : IVentaDetalleService
             {
                 Id = detalle.Id,
                 VentaId = detalle.VentaId,
-                Venta = detalle.Venta,
+               // Venta = detalle.Venta,
                 NumeroItem = detalle.NumeroItem,
                 ProductoId = detalle.ProductoId,
-                Producto = detalle.Producto,
+                //Producto = detalle.Producto,
                 PrecioUnitario = detalle.PrecioUnitario,
                 Cantidad = detalle.Cantidad,
                 Total = detalle.Total,
             };
 
             response.Success = true;
-            await _rabbitMQService.PublishMessage(response.Result, "detallesQueue");
+            await _rabbitMQService.PublishMessage(response.Result, "facturaDtoQueue");
         }
         catch (Exception ex)
         {
@@ -146,10 +146,10 @@ public class VentaDetalleService : IVentaDetalleService
             {
                 Id = detalle.Id,
                 VentaId = detalle.VentaId,
-                Venta = detalle.Venta,
+               // Venta = detalle.Venta,
                 NumeroItem = detalle.NumeroItem,
                 ProductoId = detalle.ProductoId,
-                Producto = detalle.Producto,
+                //Producto = detalle.Producto,
                 PrecioUnitario = detalle.PrecioUnitario,
                 Cantidad = detalle.Cantidad,
                 Total = detalle.Total,
@@ -178,10 +178,10 @@ public class VentaDetalleService : IVentaDetalleService
             {
                 Id = p.Id,
                 VentaId = p.VentaId,
-                Venta = p.Venta,
+                //Venta = p.Venta,
                 NumeroItem = p.NumeroItem,
                 ProductoId = p.ProductoId,
-                Producto = p.Producto,
+                //Producto = p.Producto,
                 PrecioUnitario = p.PrecioUnitario,
                 Cantidad = p.Cantidad,
                 Total = p.Total,

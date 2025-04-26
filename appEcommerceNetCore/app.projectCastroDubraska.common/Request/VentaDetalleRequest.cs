@@ -12,13 +12,13 @@ public class VentaDetalleRequest
 {
     [Required(ErrorMessage = "El campo VentaId es obligatorio")]
     public string? VentaId { get; set; }
-    [Required(ErrorMessage = "El campo Venta es obligatorio")]
+    //[Required(ErrorMessage = "El campo Venta es obligatorio")]
     public Venta? Venta { get; set; }
     [Required(ErrorMessage = "El campo NumeroItem es obligatorio")]
     public int NumeroItem { get; set; }
     [Required(ErrorMessage = "El campo ProductoId es obligatorio")]
     public int ProductoId { get; set; }
-    [Required(ErrorMessage = "El campo Producto es obligatorio")]
+    //[Required(ErrorMessage = "El campo Producto es obligatorio")]
     public Producto? Producto { get; set; }
     [Required(ErrorMessage = "El campo PrecioUnitario es obligatorio")]
     public decimal PrecioUnitario { get; set; }

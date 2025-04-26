@@ -7,6 +7,7 @@ using app.projectCastroDubraska.Services.Interfaces;
 using app.projectCastroDubraska.DataAccess.Repositorio;
 using app.projectCastroDubraska.common.Dto;
 using app.projectCastroDubraska.common.Request;
+using app.projectCastroDubraska.Services.EventMQ;
 using app.projectCastroDubraska.Entities.Models;
 
 namespace app.projectCastroDubraska.Services.Implementations
@@ -14,10 +15,12 @@ namespace app.projectCastroDubraska.Services.Implementations
     public class CategoriaService : iCategoriaService
     {
         private readonly iCategoriaRepositorio _repository;
+        private readonly iRabbitMQService _rabbitMQService;
 
-        public CategoriaService(iCategoriaRepositorio repository)
+        public CategoriaService(iCategoriaRepositorio repository, iRabbitMQService rabbitMQService)
         {
             _repository = repository;
+            _rabbitMQService = rabbitMQService;
         }
 
         public async Task<BaseResponse<CategoriaDto>> ActualizarCategoria(int id, CategoriaRequest request)
@@ -71,6 +74,7 @@ namespace app.projectCastroDubraska.Services.Implementations
                 };
 
                 response.Success = true;
+                await _rabbitMQService.PublishMessage(response.Result, "categoriasQueue");
             }
             catch (Exception ex)
             {

@@ -1,8 +1,3 @@
-D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\obj\Debug\net8.0\app.projectCastroDubraska.Services.csproj.AssemblyReference.cache
-D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\obj\Debug\net8.0\app.projectCastroDubraska.Services.GeneratedMSBuildEditorConfig.editorconfig
-D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\obj\Debug\net8.0\app.projectCastroDubraska.Services.AssemblyInfoInputs.cache
-D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\obj\Debug\net8.0\app.projectCastroDubraska.Services.AssemblyInfo.cs
-D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\obj\Debug\net8.0\app.projectCastroDubraska.Services.csproj.CoreCompileInputs.cache
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\bin\Debug\net8.0\app.projectCastroDubraska.Services.deps.json
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\bin\Debug\net8.0\app.projectCastroDubraska.Services.runtimeconfig.json
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\bin\Debug\net8.0\app.projectCastroDubraska.Services.dll
@@ -13,6 +8,12 @@ D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Se
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\bin\Debug\net8.0\app.projectCastroDubraska.common.pdb
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\bin\Debug\net8.0\app.projectCastroDubraska.DataAccess.pdb
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\bin\Debug\net8.0\app.projectCastroDubraska.Entities.pdb
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\obj\Debug\net8.0\app.projectCastroDubraska.Services.csproj.AssemblyReference.cache
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\obj\Debug\net8.0\app.projectCastroDubraska.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\obj\Debug\net8.0\app.projectCastroDubraska.Services.AssemblyInfoInputs.cache
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\obj\Debug\net8.0\app.projectCastroDubraska.Services.AssemblyInfo.cs
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\obj\Debug\net8.0\app.projectCastroDubraska.Services.csproj.CoreCompileInputs.cache
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\obj\Debug\net8.0\app.projectCastroDubraska.Services.sourcelink.json
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\obj\Debug\net8.0\app.proj.F5F4A640.Up2Date
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\obj\Debug\net8.0\app.projectCastroDubraska.Services.dll
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Services\obj\Debug\net8.0\refint\app.projectCastroDubraska.Services.dll

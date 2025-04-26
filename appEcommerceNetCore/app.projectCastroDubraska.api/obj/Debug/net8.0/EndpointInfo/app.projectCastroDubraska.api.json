@@ -1151,10 +1151,8 @@
           "cantidad",
           "numeroItem",
           "precioUnitario",
-          "producto",
           "productoId",
           "total",
-          "venta",
           "ventaId"
         ],
         "type": "object",

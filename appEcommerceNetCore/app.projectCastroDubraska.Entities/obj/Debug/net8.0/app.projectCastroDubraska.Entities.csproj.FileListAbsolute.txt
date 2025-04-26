@@ -7,6 +7,7 @@ D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.En
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Entities\obj\Debug\net8.0\app.projectCastroDubraska.Entities.AssemblyInfoInputs.cache
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Entities\obj\Debug\net8.0\app.projectCastroDubraska.Entities.AssemblyInfo.cs
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Entities\obj\Debug\net8.0\app.projectCastroDubraska.Entities.csproj.CoreCompileInputs.cache
+D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Entities\obj\Debug\net8.0\app.projectCastroDubraska.Entities.sourcelink.json
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Entities\obj\Debug\net8.0\app.projectCastroDubraska.Entities.dll
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Entities\obj\Debug\net8.0\refint\app.projectCastroDubraska.Entities.dll
 D:\AplicacionesDistribuidas\AD1\appEcommerceNetCore\app.projectCastroDubraska.Entities\obj\Debug\net8.0\app.projectCastroDubraska.Entities.pdb
